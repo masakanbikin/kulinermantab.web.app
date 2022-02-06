@@ -1,6 +1,6 @@
-baseURL = "https://resepadiyanti.vercel.app/"
+baseURL = "https://kulinermantab.web.app/"
 languageCode = "en-us"
-title = "RESEP ADIYANTI"
+title = "Kuliner Mantab"
 theme = "grid"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "grid"
 [params]
   description = "Menyajikan Berbagai Masakan Terlezat di Indonesia"
   topdescription = "Menyajikan Berbagai Masakan Terlezat di Indonesia"
-  toptitle = "RESEP ADIYANTI"
+  toptitle = "Kuliner Mantab"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Adiyanti Nur Apipah"
-    homepage = "https://resepadiyanti.vercel.app/"
+    homepage = "https://kulinermantab.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
